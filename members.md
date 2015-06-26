@@ -135,6 +135,7 @@ Format:
 | Ian Fairclough | [boole10](https://github.com/boole10)||
 | Ilaria C  | [ilacorda](https:/github.com/ilacorda)  ||
 | Isiah Wheeler | [isiahw1](https://github.com/isiahw1) | Went through Python and Java tracks at Codecademy and looking to expand experience |
+| Ivan Mechkov | [Mechkov](https://github.com/Mechkov/) | Just graduated with a maths degree and got a job as a developer. I want to get better at computers. |
 | Jack Maillett | [jLett](https://github.com/jlett) ||
 | Jack Taylor-Crush | [jxtcman](https://github.com/jxtcman) ||
 | Jake Choi | [wisupreme](https://github.com/wisupreme) | Have knowledge in Java. Eager to learn anything and want to contribute in open source.|
